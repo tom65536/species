@@ -1,6 +1,7 @@
 # Binaries for programs and plugins
 main
 species
+!src/species
 *.exe
 *.exe~
 *.so
@@ -9,6 +10,8 @@ species
 
 # Ignore binary output folders
 bin/
+doc/
+
 
 # Ignore common editor/system specific metadata
 .DS_Store

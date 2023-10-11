@@ -1,4 +1,3 @@
-
 import species
 
 fn test_main_sequence_star() {
