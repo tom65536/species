@@ -1,0 +1,7 @@
+repos:
+  - repo: https://github.com/tom65536/pre-commit-v
+    rev: v0.1.0
+    hooks:
+      - id: v-vet
+      - id: v-fmt
+      - id: v-test
